@@ -11,19 +11,19 @@ undefined
 NaN (Not a Number)
 */
 
-const a = 0;
-let result = a ? 10 : -10;
-console.log(result);
+// const a = "";
+// let result = a ? 10 : -10;
+// console.log(result);
 
-const falsy = 0;
-const truthy = 1;
-console.log(Boolean(truthy));
-console.log(Boolean(falsy));
+// const falsy = 0;
+// const truthy = 1;
+// console.log(Boolean(truthy));
+// console.log(Boolean(falsy));
 
 // 論理積 (&&) について
-const resultA = "" && "foo";
-const resultB = 2 && 1 && 0 && 3;
-const resultC = "foo" && 4;
+// const resultA = "" && "foo";
+// const resultB = 2 && 1 && 0 && 3;
+// const resultC = "foo" && 4;
 
 // console.log(resultA);
 // console.log(resultB);
